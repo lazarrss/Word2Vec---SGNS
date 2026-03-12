@@ -28,11 +28,13 @@ Install NumPy:
 
 ```bash
 pip install numpy
+```
 
- Run Training:
+Run Training:
 
 ```bash
 python train.py
+```
 
 By default, the script uses data/holmes.txt. It can also be adapted to larger corpora such as text8.
 
