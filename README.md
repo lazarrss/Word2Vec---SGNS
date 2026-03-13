@@ -36,6 +36,36 @@ Run Training:
 python train.py
 ```
 
+Epoch 30/30 finished. Average loss: 2.3577
+
+Most similar to 'holmes':
+  mr              0.6763
+  sherlock        0.6617
+  basket          0.5663
+  scotland        0.5638
+  blandly         0.5604
+
+Most similar to 'sherlock':
+  holmes          0.6617
+  friend          0.5624
+  called          0.5590
+  chair           0.5391
+  greeting        0.5147
+
+Most similar to 'case':
+  clearing        0.5569
+  matter          0.5467
+  forced          0.5384
+  conclusions     0.5350
+  steps           0.5328
+
+Most similar to 'house':
+  manor           0.6268
+  copper          0.5396
+  beeches         0.5330
+  loving          0.5290
+  doran           0.5189
+
 By default, the script uses data/holmes.txt. It can also be adapted to larger corpora such as text8.
 
 ## Reference
