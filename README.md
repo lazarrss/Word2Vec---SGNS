@@ -1,10 +1,8 @@
-# Word2Vec in Pure NumPy
+# Word2Vec
 
-This repository contains a from-scratch implementation of **Word2Vec** in **pure NumPy**, without using PyTorch, TensorFlow, or other ML frameworks.
+This repository contains a from-scratch implementation of **Word2Vec**
 
 The implemented model is **Skip-gram with Negative Sampling (SGNS)**. The focus of the project is the manual implementation of the core training loop, including forward pass, loss computation, gradient computation, and parameter updates.
-
-This project was developed as part of an internship-style technical task.
 
 ## Features
 
